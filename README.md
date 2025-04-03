@@ -16,5 +16,4 @@ project
 </pre>
 
 ## Disclaimer
-
 This project was created as part of an academic assignment. Feel free to use it for learning purposes, but please do not submit it as your own work in educational settings.
