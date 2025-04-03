@@ -4,8 +4,7 @@ This project implements a JK Flip-Flop using a 4:1 multiplexer and basic logic g
 
 ## File Structure
 
-    .
-    └─ project
+    project
         └─ simulation
               └─ JKTest.vhd
               └─ MUX4_1Test.vhd
@@ -15,6 +14,9 @@ This project implements a JK Flip-Flop using a 4:1 multiplexer and basic logic g
               └─ JK.vhd
               └─ MUX4_1.vhd
 
+
+oasdkoads
+<pre> project ├── simulation │ ├── JKTest.vhd │ ├── MUX4_1Test.vhd │ └── SimulareAutomatJK.vhd └── sources ├── AutomatJK.vhd ├── JK.vhd └── MUX4_1.vhd </pre>
 ## Disclaimer
 
 This project was created as part of an academic assignment. Feel free to use it for learning purposes, but please do not submit it as your own work in educational settings.
