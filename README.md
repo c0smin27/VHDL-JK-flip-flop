@@ -3,7 +3,6 @@
 This project implements a JK Flip-Flop using a 4:1 multiplexer and basic logic gates in VHDL. It was developed as part of a university lab assignment using the Vivado tool.
 
 ## File Structure
-
 <pre>
 project
   └─ simulation
@@ -14,6 +13,7 @@ project
        └─ AutomatJK.vhd
        └─ JK.vhd
        └─ MUX4_1.vhd
+</pre>
 
 ## Disclaimer
 
