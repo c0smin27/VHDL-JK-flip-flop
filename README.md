@@ -7,13 +7,13 @@ This project implements a JK Flip-Flop using a 4:1 multiplexer and basic logic g
     .
     └─ project
         └─ simulation
-           └─ JKTest.vhd
-           └─ MUX4_1Test.vhd
-           └─ SimulareAutomatJK.vhd
+              └─ JKTest.vhd
+              └─ MUX4_1Test.vhd
+              └─ SimulareAutomatJK.vhd
         └─ sources
-           └─ AutomatJK.vhd
-           └─ JK.vhd
-           └─ MUX4_1.vhd
+              └─ AutomatJK.vhd
+              └─ JK.vhd
+              └─ MUX4_1.vhd
 
 ## Disclaimer
 
